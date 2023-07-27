@@ -1,0 +1,13 @@
+body {
+  background: url('background.jpg');
+  background-size: cover;
+}
+.copyright {
+  position: fixed;
+  background-color: rgb(215, 215, 215);
+  color: rgb(94, 94, 94);
+  line-height: 3;
+  bottom: 0px;
+  text-align: center;
+  width: 100%;
+}
